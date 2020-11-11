@@ -1,0 +1,21 @@
+[{ 
+  "type":"Select",
+  "price":0, 
+  "quantity":0
+},
+{
+  "type":"Balcony Level",
+  "price":170, 
+  "quantity":12
+},
+{
+  "type":"Lower Level",
+  "price":250, 
+  "quantity":20
+},
+{
+  "type":"Courtside",
+  "price":450, 
+  "quantity":15
+}]
+
